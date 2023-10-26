@@ -1,0 +1,1 @@
+{"uuid":"2b53efd8-5cf5-4965-8986-57a1087e1695","name":"Allure Test Suite","children":["47f1a7e3-ae83-4703-bf47-98094fc4b415"],"befores":[{"name":"globalSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694133240688,"stop":1694133240694}],"afters":[],"start":1694133240677,"stop":1694133242275}

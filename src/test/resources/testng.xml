@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Allure Test Suite">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+    </listeners>
+
+    <!-- Your test classes and test methods go here -->
+    <test name="Test Selenium">
+        <classes>
+            <class name="LoginPageTest" />
+        </classes>
+    </test>
+</suite>
