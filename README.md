@@ -4,6 +4,16 @@ selenium-testng-framework
 ---
 A sample framework based on Page Object Model, Selenium, TestNG using Java.
 
+The test is logging in with user and password then verify the details of the transcations and the account details.
+
+NOTE - 
+A.The user/password in this site is temporary only for one hour , so for testing purpose you need to :
+   
+   1. create user and password
+   2. add two transcation the first one with 50$ and the other one with 200$
+   3. edit the user password and account number in \src\test\java\LoginPageTest.java
+   
+
 This framework is based in **Page Object Model (POM).**
 
 The framework uses:
